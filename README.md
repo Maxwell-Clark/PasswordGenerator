@@ -1,10 +1,10 @@
-# Python/Flask web applications cannot be hosted on Github pages.
-# You will need to download the files to view the application.
+# Application is viewable via github page
 
-## Project setup
-## get into the flask-lyrics folder
+## install
+npm i
 
-python app.py
+## run locally
+npm run serve
 
 ## that should do it!
 
