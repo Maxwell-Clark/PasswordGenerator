@@ -1,24 +1,10 @@
-# app
+# Python/Flask web applications cannot be hosted on Github pages.
+# You will need to download the files to view the application.
 
 ## Project setup
-```
-npm install
-```
+## get into the flask-lyrics folder
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+python app.py
 
-### Compiles and minifies for production
-```
-npm run build
-```
+## that should do it!
 
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
